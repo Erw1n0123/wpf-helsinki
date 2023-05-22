@@ -1,0 +1,16 @@
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\bin\Debug\HelsinkiWPF.exe.config
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\bin\Debug\HelsinkiWPF.exe
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\bin\Debug\HelsinkiWPF.pdb
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.csproj.AssemblyReference.cache
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\App.g.cs
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF_MarkupCompile.cache
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF_MarkupCompile.lref
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\MainWindow.baml
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.g.resources
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.Properties.Resources.resources
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.csproj.GenerateResource.cache
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.exe
+C:\Users\Ervin\Desktop\asztali\helsinki\wpf-helsinki\HelsinkiWPF\HelsinkiWPF\obj\Debug\HelsinkiWPF.pdb
